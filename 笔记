@@ -1,4 +1,15 @@
- 1、打开谷歌云：
+                      Serv00 VPS问题
+列出当前系统所有进程清单：ps aux
+清除指定账户的所有进程：pkill -kill -u ghffjhuru
+更改非隐藏目录的权限：chmod -R 755 ~/*
+更改隐藏目录的权限：chmod -R 755 ~/.*
+删除非隐藏文件夹及其文件：rm -rf ~/*
+删除隐藏文件夹及其文件：rm -rf ~/.*
+
+
+
+
+1、打开谷歌云：
 https://accounts.google.com/v3/signin/identifier?continue=
 https%3A%2F%2Fconsole.cloud.google.com%2F&followup=
 https%3A%2F%2Fconsole.cloud.google.com%2F&ifkv=
