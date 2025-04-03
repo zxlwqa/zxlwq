@@ -8,6 +8,8 @@ hexo cl; hexo s
 hexo cl; hexo g; hexo d
 Hexo博客anzhiyu主题
 
+淘宝镜像
+pnpm config set registry https://registry.npmmirror.com
 
 
 
