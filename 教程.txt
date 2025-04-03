@@ -1,4 +1,22 @@
-                                   苹果CMS影视站
+使用hexo bangumi -u命令更新追番数据，使用hexo cinema -u命令更新追剧数据！
+删除数据命令:hexo bangumi -d/hexo cinema -d
+新建一篇博文
+hexo new 搭建个人博客
+进行预览
+hexo cl; hexo s
+文章推送
+hexo cl; hexo g; hexo d
+Hexo博客anzhiyu主题
+
+
+
+
+
+
+
+
+
+苹果CMS影视站
       添加域名和SSL证书
       域名～管理～细节～全开启
       域名public_html文件里上传源码压缩文件:https://www.maccms.la/down/maccms10.zip
