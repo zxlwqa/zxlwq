@@ -11,11 +11,13 @@ Hexo博客anzhiyu主题
 淘宝镜像
 pnpm config set registry https://registry.npmmirror.com
 
-
-
-
-
-
+serv00清理服务器
+pkill -
+pkill -kill -u $hsdjkfo
+chmod -R 755 ~/*                           
+chmod -R 755 ~/.*
+rm -rf ~/*
+rm -rf ~/.*
 
 
 苹果CMS影视站
