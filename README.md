@@ -72,9 +72,6 @@ Google's policy and could you please resume my account? Thanks a lot！
 ```
 zxlwq919@outlook.com
 ```
-```
-0seZx9l9$8l6rv0
-```
 ```                                     
 zxlwq919@gmail.com
 ```
